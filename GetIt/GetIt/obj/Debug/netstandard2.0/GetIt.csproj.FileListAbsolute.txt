@@ -1,0 +1,15 @@
+C:\Users\Patryk\source\repos\GetIt\GetIt\GetIt\bin\Debug\netstandard2.0\GetIt.deps.json
+C:\Users\Patryk\source\repos\GetIt\GetIt\GetIt\bin\Debug\netstandard2.0\GetIt.dll
+C:\Users\Patryk\source\repos\GetIt\GetIt\GetIt\bin\Debug\netstandard2.0\GetIt.pdb
+C:\Users\Patryk\source\repos\GetIt\GetIt\GetIt\obj\Debug\netstandard2.0\GetIt.csprojAssemblyReference.cache
+C:\Users\Patryk\source\repos\GetIt\GetIt\GetIt\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Patryk\source\repos\GetIt\GetIt\GetIt\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Patryk\source\repos\GetIt\GetIt\GetIt\obj\Debug\netstandard2.0\GetIt.csproj.CoreCompileInputs.cache
+C:\Users\Patryk\source\repos\GetIt\GetIt\GetIt\obj\Debug\netstandard2.0\GetIt.AssemblyInfoInputs.cache
+C:\Users\Patryk\source\repos\GetIt\GetIt\GetIt\obj\Debug\netstandard2.0\GetIt.AssemblyInfo.cs
+C:\Users\Patryk\source\repos\GetIt\GetIt\GetIt\obj\Debug\netstandard2.0\GetIt.dll
+C:\Users\Patryk\source\repos\GetIt\GetIt\GetIt\obj\Debug\netstandard2.0\GetIt.pdb
+C:\Users\Patryk\source\repos\GetIt\GetIt\GetIt\obj\Debug\netstandard2.0\GetItList.xaml.g.cs
+C:\Users\Patryk\source\repos\GetIt\GetIt\GetIt\obj\Debug\netstandard2.0\GiveThat.xaml.g.cs
+C:\Users\Patryk\source\repos\GetIt\GetIt\GetIt\obj\Debug\netstandard2.0\Settings.xaml.g.cs
+C:\Users\Patryk\source\repos\GetIt\GetIt\GetIt\obj\Debug\netstandard2.0\XamlC.stamp

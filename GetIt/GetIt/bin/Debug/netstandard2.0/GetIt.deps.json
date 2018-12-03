@@ -1,0 +1,210 @@
+{
+  "runtimeTarget": {
+    "name": ".NETStandard,Version=v2.0/",
+    "signature": "ffcef6ac92998c06579c1699da3d60de367d2800"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETStandard,Version=v2.0": {},
+    ".NETStandard,Version=v2.0/": {
+      "GetIt/1.0.0": {
+        "dependencies": {
+          "AppBrix.Permissions": "0.12.0",
+          "CaveBirdLabs.Xamarin.Essentials": "1.0.2",
+          "NETStandard.Library": "2.0.3",
+          "Plugin.Permissions": "3.0.0.12",
+          "Xam.Plugin.Media": "4.0.1.5",
+          "Xamarin.Forms": "3.1.0.697729"
+        },
+        "runtime": {
+          "GetIt.dll": {}
+        }
+      },
+      "AppBrix/0.12.0": {
+        "dependencies": {
+          "AppBrix.Configuration": "0.12.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/AppBrix.dll": {
+            "assemblyVersion": "0.12.0.0",
+            "fileVersion": "0.12.0.0"
+          }
+        }
+      },
+      "AppBrix.Configuration/0.12.0": {
+        "dependencies": {
+          "AppBrix.Utils": "0.12.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/AppBrix.Configuration.dll": {
+            "assemblyVersion": "0.12.0.0",
+            "fileVersion": "0.12.0.0"
+          }
+        }
+      },
+      "AppBrix.Container/0.12.0": {
+        "dependencies": {
+          "AppBrix": "0.12.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/AppBrix.Container.dll": {
+            "assemblyVersion": "0.12.0.0",
+            "fileVersion": "0.12.0.0"
+          }
+        }
+      },
+      "AppBrix.Permissions/0.12.0": {
+        "dependencies": {
+          "AppBrix.Container": "0.12.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/AppBrix.Permissions.dll": {
+            "assemblyVersion": "0.12.0.0",
+            "fileVersion": "0.12.0.0"
+          }
+        }
+      },
+      "AppBrix.Utils/0.12.0": {
+        "runtime": {
+          "lib/netstandard2.0/AppBrix.Utils.dll": {
+            "assemblyVersion": "0.12.0.0",
+            "fileVersion": "0.12.0.0"
+          }
+        }
+      },
+      "CaveBirdLabs.Xamarin.Essentials/1.0.2": {
+        "runtime": {
+          "lib/netstandard2.0/CaveBirdLabs.Xamarin.Essentials.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Microsoft.NETCore.Platforms/1.1.0": {},
+      "NETStandard.Library/2.0.3": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "1.1.0"
+        }
+      },
+      "Plugin.Permissions/3.0.0.12": {
+        "runtime": {
+          "lib/netstandard2.0/Plugin.Permissions.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Xam.Plugin.Media/4.0.1.5": {
+        "dependencies": {
+          "Plugin.Permissions": "3.0.0.12"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Plugin.Media.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Xamarin.Forms/3.1.0.697729": {
+        "runtime": {
+          "lib/netstandard2.0/Xamarin.Forms.Core.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.0.0.0"
+          },
+          "lib/netstandard2.0/Xamarin.Forms.Platform.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          },
+          "lib/netstandard2.0/Xamarin.Forms.Xaml.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GetIt/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AppBrix/0.12.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-b3yiGjBSS81iw5c4Z/OjfBT944wZCfQU8R81Bc1fJ8xxAPf2TSAH/JpRxcPh/HR3XXJAFe/lumKZRd8+2tFJcw==",
+      "path": "appbrix/0.12.0",
+      "hashPath": "appbrix.0.12.0.nupkg.sha512"
+    },
+    "AppBrix.Configuration/0.12.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-bPGi1P3smnxAPIlt5CiWqWs4/T4NRbMqFunUSm+9bgOCDauZK/4SSMVthXRLPzyGwd0iFfr4GysJJaqQBCuqYw==",
+      "path": "appbrix.configuration/0.12.0",
+      "hashPath": "appbrix.configuration.0.12.0.nupkg.sha512"
+    },
+    "AppBrix.Container/0.12.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-POyMGzAVcpuKu6M3QGAIGju2yURfHtzgk56+BjzmWjj2PCuYSiQPkcliqlYEtqEoNqqnSk9iVmN8hgaBcWva4A==",
+      "path": "appbrix.container/0.12.0",
+      "hashPath": "appbrix.container.0.12.0.nupkg.sha512"
+    },
+    "AppBrix.Permissions/0.12.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ztVKgC1ypqVCTdwK8jHZG9840PXvNrxg3RWRWlZyzBJ0Y3xBm7XBMO122Gi3/vHWfr7oIXt6kZCF5yaotqkXIw==",
+      "path": "appbrix.permissions/0.12.0",
+      "hashPath": "appbrix.permissions.0.12.0.nupkg.sha512"
+    },
+    "AppBrix.Utils/0.12.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-mhbxkALpJg7cPgvCSaY0IkU76YDup/b6C7348W3ZcLLZLOuhS2t4O1l4ECaUGbGnnGe5GllLv/61spLUqXyvVQ==",
+      "path": "appbrix.utils/0.12.0",
+      "hashPath": "appbrix.utils.0.12.0.nupkg.sha512"
+    },
+    "CaveBirdLabs.Xamarin.Essentials/1.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-0vjiJGBMwjo6J2phGhFSZr/v8cZw9OFX1XHhAM3kDtWVTqsMGgxq+JYLUqnatI3O7u3YxUVbEqvwY/wr+2dGLQ==",
+      "path": "cavebirdlabs.xamarin.essentials/1.0.2",
+      "hashPath": "cavebirdlabs.xamarin.essentials.1.0.2.nupkg.sha512"
+    },
+    "Microsoft.NETCore.Platforms/1.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-kz0PEW2lhqygehI/d6XsPCQzD7ff7gUJaVGPVETX611eadGsA3A877GdSlU0LRVMCTH/+P3o2iDTak+S08V2+A==",
+      "path": "microsoft.netcore.platforms/1.1.0",
+      "hashPath": "microsoft.netcore.platforms.1.1.0.nupkg.sha512"
+    },
+    "NETStandard.Library/2.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-st47PosZSHrjECdjeIzZQbzivYBJFv6P2nv4cj2ypdI204DO+vZ7l5raGMiX4eXMJ53RfOIg+/s4DHVZ54Nu2A==",
+      "path": "netstandard.library/2.0.3",
+      "hashPath": "netstandard.library.2.0.3.nupkg.sha512"
+    },
+    "Plugin.Permissions/3.0.0.12": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-VrYqI/ufk3bH6gTP1JJlLByjhS0CHu3riKmdozhX9/qXA9hlvLolmcqKJdyAqpzmrVC74m3ZtirUBIrBxvT1Lw==",
+      "path": "plugin.permissions/3.0.0.12",
+      "hashPath": "plugin.permissions.3.0.0.12.nupkg.sha512"
+    },
+    "Xam.Plugin.Media/4.0.1.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-a5l/M2Tl06BqBX/uhM/pr+q1jDkh2tRQr5Ne9rjAuD9VYn5STE+7kVFTzIUNPMnMr9PZLJkWP5WAr/tBN5oepw==",
+      "path": "xam.plugin.media/4.0.1.5",
+      "hashPath": "xam.plugin.media.4.0.1.5.nupkg.sha512"
+    },
+    "Xamarin.Forms/3.1.0.697729": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-6y1rnRKVqgRWpGy+mjlgf5cxRYiHsiGS4b51/AJxxkEyf7w1XJGzcLl4wV8Yjpv6/kKxsIBoAgqxIdFElQcNkA==",
+      "path": "xamarin.forms/3.1.0.697729",
+      "hashPath": "xamarin.forms.3.1.0.697729.nupkg.sha512"
+    }
+  }
+}
